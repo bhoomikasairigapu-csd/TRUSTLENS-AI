@@ -1,19 +1,44 @@
-
 # TRUSTLENS AI
 
-AI-Powered Digital Trust & Fraud Detection Platform
+### AI-Powered Digital Trust & Fraud Detection Platform
 
-## About
-TRUSTLENS AI uses Artificial Intelligence and
-Machine Learning to identify suspicious job offers,
-internships, scholarships, messages and URLs.
+## About the Project
 
-## Technologies
+TRUSTLENS AI is an AI-powered fraud detection platform that analyzes job offers, internships, scholarships, messages, documents, and URLs.
+
+Using Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP), it identifies suspicious indicators, checks available evidence, and generates easy-to-understand risk reports to help users stay safe from online scams.
+
+## Problem Statement
+
+Students and job seekers often encounter fake job offers, internship opportunities, scholarship messages, and phishing websites. TRUSTLENS AI aims to help users identify potential scams through intelligent analysis and evidence-based risk assessment.
+
+## Key Features
+
+- Suspicious message analysis
+- Job and internship offer verification support
+- Scholarship information analysis
+- URL risk analysis
+- Document and image text extraction
+- AI-powered risk assessment
+- Explainable risk reports
+
+## Technologies Used
+
 - Python
 - Machine Learning
-- NLP
+- Natural Language Processing (NLP)
 - FastAPI
 - React Native
-# TRUSTLENS-AI
-TRUSTLENS AI is an AI-powered fraud detection platform that analyzes job offers, internships, scholarships, messages, documents, and URLs. Using Machine Learning and NLP, it identifies suspicious signs, checks available evidence, and generates clear risk reports to help users stay safe from online scams.
-b00cef3e728a73b88d8d243e8d844fa348674d9b
+- PostgreSQL
+
+## Project Domain
+
+Artificial Intelligence | Machine Learning | Cybersecurity
+
+## Project Status
+
+Currently in the initial development stage.
+
+## Team
+
+TRUSTLENS AI Development Team
